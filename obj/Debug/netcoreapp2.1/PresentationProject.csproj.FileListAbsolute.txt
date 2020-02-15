@@ -1,0 +1,11 @@
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\bin\Debug\netcoreapp2.1\PresentationProject.deps.json
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\bin\Debug\netcoreapp2.1\PresentationProject.runtimeconfig.json
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\bin\Debug\netcoreapp2.1\PresentationProject.runtimeconfig.dev.json
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\bin\Debug\netcoreapp2.1\PresentationProject.dll
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\bin\Debug\netcoreapp2.1\PresentationProject.pdb
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\obj\Debug\netcoreapp2.1\PresentationProject.csprojAssemblyReference.cache
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\obj\Debug\netcoreapp2.1\PresentationProject.csproj.CoreCompileInputs.cache
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\obj\Debug\netcoreapp2.1\PresentationProject.AssemblyInfoInputs.cache
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\obj\Debug\netcoreapp2.1\PresentationProject.AssemblyInfo.cs
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\obj\Debug\netcoreapp2.1\PresentationProject.dll
+C:\Alexandr\Workspace\C#\c_sharp-homeworks\PresentationProject\obj\Debug\netcoreapp2.1\PresentationProject.pdb
