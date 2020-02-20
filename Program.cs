@@ -35,8 +35,12 @@ namespace PresentationProject {
                 if (min > hazaravor) {
                     min = hazaravor;
                 }
+                Console.WriteLine($"Max value = {max}, Min value = {min}");
+                Console.WriteLine($"Miavor = {miavor}, Tasnavor = {tasnavor}, Haryuravor = {haryuravor}, Hazaravor = {hazaravor}");
+
                 max *= 4;
                 tasnavor += min;
+                // printing after arithmetic changes
                 Console.WriteLine($"Max value = {max}, Min value = {min}");
                 Console.WriteLine($"Miavor = {miavor}, Tasnavor = {tasnavor}, Haryuravor = {haryuravor}, Hazaravor = {hazaravor}");
 
